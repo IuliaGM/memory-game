@@ -1,3 +1,3 @@
 # memory-game
-a short and simple game using HTML, CSS and JS 
+a short and simple game using JS 
 ## made by following the steps from Ania Kubow's 12h+ bootcamp
